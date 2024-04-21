@@ -82,6 +82,7 @@ a:hover{
     padding: 30px;
     max-width: 900px;
     background-color: #010100;
+    border-radius: 50px;
 }
 #cont li{
     text-align: center;
@@ -91,7 +92,9 @@ a:hover{
     padding-top: 20px;
     padding-bottom: 20px;
     border: #000000 dashed;
+    margin: 10px;
     background-color: rgb(74, 74, 71);
+    border-radius: 50px;
 
 }
 /*HOME
